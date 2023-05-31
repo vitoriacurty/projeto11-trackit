@@ -8,9 +8,9 @@ export default function App() {
 
   return (
     <>
-    <LoginPage />
- {/*    <CadastroPage />
-    <HabitosPage />
+   {/*  <LoginPage /> */}
+    <CadastroPage />
+  {/*   <HabitosPage />
     <HojePage />
     <HistoricoPage /> */}
     </>
